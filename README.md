@@ -42,13 +42,15 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="shubhamxb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhamxb&show_icons=true&hide_border=true" />
+  <img align="left" alt="shubhamxb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhamxb&show_icons=true&hide_border=true&theme=tokyonight" />
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamxb&layout=compact&theme=tokyonight)
 
 </details>
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamxb&layout=compact)
+
 
 
 [website]: https://shubhamxb.github.io
