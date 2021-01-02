@@ -1,4 +1,4 @@
-### Hi there, I'm Shubham Bhagwat - aka [shubhamxb] or [psych0thinker][website] 👋
+### Hi there, I'm Shubham Bhagwat - aka [shubhamxb][website] or [psych0thinker][instagram] 👋
 
 [![Website](https://img.shields.io/website?label=shubhamxb.github.io&style=for-the-badge&url=https%3A%2F%2Fshubhamxb.github.io)](https://shubhamxb.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shubhamxb?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/shubhamxb)
