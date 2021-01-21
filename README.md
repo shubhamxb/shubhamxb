@@ -43,8 +43,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-005c69?style=flat-square&logo=github)
 <br />
 <br />
-![Github Stats](https://github-readme-stats.vercel.app/api?username=shubhamxb&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=shubhamxb&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamxb&layout=compact&theme=tokyonight)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shubhamxb.shubhamxb)
+
 
 [website]: https://shubhamxb.github.io
 [instagram]: https://instagram.com/psych0thinker
