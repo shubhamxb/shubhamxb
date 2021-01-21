@@ -46,6 +46,10 @@
 
 <br/>
 <!-- GithubStats -->
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shubhamxb&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shubhamxb&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamxb&layout=compact&theme=tokyonight)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shubhamxb.shubhamxb)
