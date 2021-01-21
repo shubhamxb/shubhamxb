@@ -9,13 +9,13 @@
 - 🎮 Currently Playing: CSGO, Far Cry 5, Rocket League, StarWars Battlefront II
 
 ### Connect with me:
-
+<center>
 [![Github.io Badge](https://img.shields.io/badge/-shubhamxb.github.io-1a5c44?style=flat-square&logo=Github&link=https://shubhamxb.github.io/)](https://shubhamxb.github.io)
 [![Twitter Badge](https://img.shields.io/badge/-shubhamxb-33a3bd?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/shubhamxb/)](https://twitter.com/shubhamxb)
 [![Linkedin Badge](https://img.shields.io/badge/-shubhamxb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/shubhamxb)](https://linkedin.com/in/shubhamxb)
 [![Instagram Badge](https://img.shields.io/badge/psych0thinker-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/psych0thinker/)](https://instagram.com/psych0thinker)
 [![Steam Badge](https://img.shields.io/badge/-psych0thinker-050505?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/psych0thinker/)](https://steamcommunity.com/id/psych0thinker/)
-
+</center>
 ### Languages and Tools:
 
 <!-- ProgrammingLanguages -->
@@ -48,10 +48,8 @@
 <!-- GithubStats -->
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shubhamxb&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamxb&layout=compact&theme=dark" width="350"></a>
 </p>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=shubhamxb&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamxb&layout=compact&theme=tokyonight)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shubhamxb.shubhamxb)
 
 <!-- Website links for the head-title-reference -->
