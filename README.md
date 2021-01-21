@@ -47,8 +47,9 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shubhamxb&show_icons=true&count_private=true&theme=dark"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamxb&layout=compact&theme=dark"></a>
+  <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=shubhamxb.shubhamxb"></a>
 </p>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shubhamxb.shubhamxb)
+
 
 <!-- Website links for the head-title-reference -->
 [website]: https://shubhamxb.github.io
