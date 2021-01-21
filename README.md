@@ -1,59 +1,56 @@
-### Hi there, I'm Shubham Bhagwat - aka [shubhamxb][website] or [psych0thinker][instagram] 👋
-
-[![Website](https://img.shields.io/website?label=shubhamxb.github.io&style=for-the-badge&url=https%3A%2F%2Fshubhamxb.github.io)](https://shubhamxb.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/shubhamxb?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/shubhamxb)
+### Hello there, I'm Shubham Bhagwat - aka [shubhamxb][website] or [psych0thinker][instagram] 👋
 
 ## I'm a Student, Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other coders
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to projects
 - ⚡ Fun fact: I love to play games
-- 🎮 Currently Playing: CSGO, Far Cry 5, Rocket League, GTA-V Online
+- 🎮 Currently Playing: CSGO, Far Cry 5, Rocket League, StarWars Battlefront II
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Github.io Badge](https://img.shields.io/badge/-shubhamxb.github.io-1a5c44?style=flat-square&logo=Github&link=https://shubhamxb.github.io/)][website]
+[![Twitter Badge](https://img.shields.io/badge/-shubhamxb-33a3bd?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/shubhamxb/)][twitter]
+[![Linkedin Badge](https://img.shields.io/badge/-shubhamxb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/shubhamxb)][linkedin]
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/psych0thinker/)][instagram]
+[![Steam Badge](https://img.shields.io/badge/-psych0thinker-050505?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/psych0thinker/)][steam]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+![C++](https://img.shields.io/badge/-C++-323680?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-0c376b?style=flat-square&logo=Python)
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-155cb3?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript(Learning!)-526900?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React(Learning!)-2c224f?style=flat-square&logo=react)
+
+
+
+![Flask](https://img.shields.io/badge/-Flask-242424?style=flat-square&logo=Flask)
+![Nodejs](https://img.shields.io/badge/-Nodejs(Learning!)-224f44?style=flat-square&logo=Node.js)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-146b0c?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-0b0085?style=flat-square&logo=mysql)
+
+![Git](https://img.shields.io/badge/-Git-850000?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-005c69?style=flat-square&logo=github)
 <br />
 <br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="shubhamxb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhamxb&show_icons=true&hide_border=true&theme=tokyonight" />
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamxb&layout=compact&theme=tokyonight)
-
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=shubhamxb&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=1gokul.1gokul)
 </details>
-
-<br />
-
-
-
-
 [website]: https://shubhamxb.github.io
 [twitter]: https://twitter.com/shubhamxb
 [instagram]: https://instagram.com/psych0thinker
 [linkedin]: https://linkedin.com/in/shubhamxb
+[steam]: https://steamcommunity.com/id/psych0thinker/
