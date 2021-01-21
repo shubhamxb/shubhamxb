@@ -13,7 +13,7 @@
 [![Github.io Badge](https://img.shields.io/badge/-shubhamxb.github.io-1a5c44?style=flat-square&logo=Github&link=https://shubhamxb.github.io/)](https://shubhamxb.github.io)
 [![Twitter Badge](https://img.shields.io/badge/-shubhamxb-33a3bd?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/shubhamxb/)](https://twitter.com/shubhamxb)
 [![Linkedin Badge](https://img.shields.io/badge/-shubhamxb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/shubhamxb)](https://linkedin.com/in/shubhamxb)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/psych0thinker/)](https://instagram.com/psych0thinker)
+[![Instagram Badge](https://img.shields.io/badge/psych0thinker-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/psych0thinker/)](https://instagram.com/psych0thinker)
 [![Steam Badge](https://img.shields.io/badge/-psych0thinker-050505?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/psych0thinker/)](https://steamcommunity.com/id/psych0thinker/)
 
 <br />
@@ -45,3 +45,6 @@
 <br />
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shubhamxb&count_private=true&show_icons=true&include_all_commits=true)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shubhamxb.shubhamxb)
+
+[website]: https://shubhamxb.github.io
+[instagram]: https://instagram.com/psych0thinker
