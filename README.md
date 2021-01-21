@@ -16,37 +16,40 @@
 [![Instagram Badge](https://img.shields.io/badge/psych0thinker-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/psych0thinker/)](https://instagram.com/psych0thinker)
 [![Steam Badge](https://img.shields.io/badge/-psych0thinker-050505?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/psych0thinker/)](https://steamcommunity.com/id/psych0thinker/)
 
-<br />
-
 ### Languages and Tools:
 
-
+<!-- ProgrammingLanguages -->
 ![C++](https://img.shields.io/badge/-C++-323680?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-0c376b?style=flat-square&logo=Python)
 
+<!-- BasicWebDev -->
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-155cb3?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript(Learning!)-526900?style=flat-square&logo=javascript)
+
+
+<!-- FrameWorks  -->
 ![React](https://img.shields.io/badge/-React(Learning!)-2c224f?style=flat-square&logo=react)
-
-
-
 ![Flask](https://img.shields.io/badge/-Flask-242424?style=flat-square&logo=Flask)
+
+<!-- Sites -->
 ![Nodejs](https://img.shields.io/badge/-Nodejs(Learning!)-224f44?style=flat-square&logo=Node.js)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
-
+<!-- Databases -->
 ![MongoDB](https://img.shields.io/badge/-MongoDB-146b0c?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-0b0085?style=flat-square&logo=mysql)
 
+<!-- GitControl -->
 ![Git](https://img.shields.io/badge/-Git-850000?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-005c69?style=flat-square&logo=github)
-<br />
-<br />
+
+<br/>
+<!-- GithubStats -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shubhamxb&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamxb&layout=compact&theme=tokyonight)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shubhamxb.shubhamxb)
 
-
+<!-- Website links for the head-title-reference -->
 [website]: https://shubhamxb.github.io
 [instagram]: https://instagram.com/psych0thinker
