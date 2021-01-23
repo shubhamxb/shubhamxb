@@ -13,7 +13,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-shubhamxb-33a3bd?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/shubhamxb/)](https://twitter.com/shubhamxb)
 [![Linkedin Badge](https://img.shields.io/badge/-shubhamxb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/shubhamxb)](https://linkedin.com/in/shubhamxb)
 [![Instagram Badge](https://img.shields.io/badge/psych0thinker-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/psych0thinker/)](https://instagram.com/psych0thinker)
-[![Steam Badge](https://img.shields.io/badge/-psych0thinker-050505?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/psych0thinker/)](https://steamcommunity.com/id/psych0thinker/)
+[![Steam Badge](https://img.shields.io/badge/-psych0thinker-050505?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/psych0thinker/)](https://steamcommunity.com/profiles/76561198824591873/)
 ### Languages and Tools:
 
 <!-- ProgrammingLanguages -->
