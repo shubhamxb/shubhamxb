@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other coders
 - 🥅 2021 Goals: Contribute more to projects
 - ⚡ Fun fact: I love to play games
-- 🎮 Currently Playing: CSGO, Far Cry 5, Rocket League, StarWars Battlefront II
+- 🎮 Currently Playing: CSGO, Far Cry 5, Rocket League, Valorant 
 
 ### Connect with me:
 [![Github.io Badge](https://img.shields.io/badge/-shubhamxb.github.io-1a5c44?style=flat-square&logo=Github&link=https://shubhamxb.github.io/)](https://shubhamxb.github.io)
