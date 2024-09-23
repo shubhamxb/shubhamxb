@@ -1,13 +1,14 @@
-### Hello there, I'm Shubham Bhagwat - aka [shubhamxb][website] or [psych0thinker][instagram] 👋
+### Hello, I'm Shubham Bhagwat - aka [shubhamxb][website] or [psych0thinker][instagram] 👋
 
-## I'm a Cloud Engineer & DevOps Enthusiast!!
+## Cloud Engineer | DevOps Enthusiast | JavaScript Fan
 
-- 🔧 Currently working as an Associate DevOps Engineer, building and automating Infrastructure as Code (IaC) solutions
-- 🌐 Passionate about Cloud Computing, with hands-on experience in AWS, Terraform, and CI/CD pipelines
-- 💻 3 years of experience in development and cloud infrastructure, proficient in JavaScript, YAML, and JSON
-- 🥅 2024 Goals: Dive deeper into Web3, contribute to open-source cloud projects, and enhance my DevOps skillset
-- 🐾 Fun fact: I have a husky puppy!
-- 🎮 Currently Playing: Valorant, Rocket League, and CSGO
+- 🌩️ Associate DevOps Engineer, focused on automating cloud infrastructure (AWS, Terraform, Docker)
+- 💻 3+ years of experience in Cloud Engineering, DevOps, and Software Development
+- 🚀 Proficient in CI/CD, Infrastructure as Code (IaC), and cloud-native technologies
+- 🛠️ Passionate about JavaScript, with Terraform-like appreciation for JSON/YAML
+- 🥅 2024 Goals: Advance my Web3 skills, improve cloud automation, contribute to open-source
+- 🐾 Fun fact: I have a husky puppy (currently learning IaC too 😉)
+- 🎮 Currently Playing: Rocket League, Valorant, CSGO
 
 ### Connect with me:
 [![Github.io Badge](https://img.shields.io/badge/-shubhamxb.github.io-1a5c44?style=flat-square&logo=Github&link=https://shubhamxb.github.io/)](https://shubhamxb.github.io)
@@ -20,7 +21,8 @@
 
 <!-- Programming Languages -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323680?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-0c376b?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-0c376b?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 
 <!-- Cloud and DevOps -->
 ![AWS](https://img.shields.io/badge/-AWS-232f3e?style=flat-square&logo=amazon-aws)
@@ -28,19 +30,26 @@
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
-![CI/CD](https://img.shields.io/badge/-CI/CD-242424?style=flat-square&logo=codepipeline)
+![CI/CD](https://img.shields.io/badge/-CI/CD-ff4081?style=flat-square&logo=codepipeline)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
 
-<!-- Basic Web Dev -->
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-155cb3?style=flat-square&logo=css3)
+<!-- IaC and Scripting -->
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash)
+![YAML](https://img.shields.io/badge/-YAML-000080?style=flat-square&logo=yaml)
+![JSON](https://img.shields.io/badge/-JSON-323232?style=flat-square&logo=json)
 
 <!-- Databases -->
 ![MongoDB](https://img.shields.io/badge/-MongoDB-146b0c?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-0b0085?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
 <!-- Version Control -->
 ![Git](https://img.shields.io/badge/-Git-850000?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-005c69?style=flat-square&logo=github)
+
+<!-- Hosting/Deployment -->
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify)
 
 <br/>
 <!-- GitHub Stats -->
