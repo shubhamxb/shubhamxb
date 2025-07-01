@@ -39,20 +39,13 @@ DevOps · Cloud · CI/CD · Infra as Code · Quiet Builder
 
 ---
 
-## 📈 github stats
+## 🔗 connect || 🧬 beyond the terminal
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamxb&show_icons=true&theme=radical&hide=issues)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamxb&layout=compact&theme=radical)
-
----
-
-## 🔗 connect
-
-[🔗 LinkedIn](https://www.linkedin.com/in/shubhamxb)  
+[LinkedIn](https://www.linkedin.com/in/shubhamxb)
+🕹️ [Steam](https://steamcommunity.com/id/psych0thinker)
 
 ---
-🧬 beyond the terminal
-🕹️ [Steam](https://steamcommunity.com/id/psych0thinker) 
 
 > this is midnight’s lab — version 25.0  
 > quietly chaotic, relentlessly building
+
