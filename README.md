@@ -28,24 +28,24 @@ DevOps · Cloud · CI/CD · Infra as Code · Quiet Builder
 
 ## 📂 featured work
 
-🔗 [kodekloud-labs](https://github.com/shubhamxb/kodekloud_engineer_tasks)  
-> hands-on DevOps labs from KodeKloud — real-world practice, annotated
+🧪 real-world practice, annotated → [kodekloud-labs](https://github.com/shubhamxb/kodekloud_engineer_tasks)  
+💡 hands-on DevOps labs with real-world scenarios — deeply annotated and continuously evolving
 
-🔒 `tekton-starter-kit`, `terraform-essentials`, and `devops-journal` are currently in private dev  
-→ **public versions dropping soon** with clean docs & sample infra patterns
+🛠️ experiments in quiet automation → `tekton-starter-kit`, `terraform-essentials`, `devops-journal`  
+🔒 internal repos in private dev — dropping soon with clean patterns, CI/CD pipelines, and automation logic
 
-🔧 [portfolio-site](https://github.com/shubhamxb/portfolio-site) *(in design)*  
-> a minimal site to mirror this lab and host long-form thoughts
+🌐 the mirror lab in design → [portfolio-site](https://github.com/shubhamxb/portfolio-site) *(in design)*  
+🔧 a minimal mirror of this GitHub lab — meant for long-form thoughts, experimental visuals, and future logs
 
 ---
 
 ## 🔗 connect || 🧬 beyond the terminal
 
-[LinkedIn](https://www.linkedin.com/in/shubhamxb)
-🕹️ [Steam](https://steamcommunity.com/id/psych0thinker)
+📇 professional signals → [LinkedIn](https://www.linkedin.com/in/shubhamxb)  
+🕹️ controlled chaos archive → [Steam](https://steamcommunity.com/id/psych0thinker)
+
 
 ---
 
 > this is midnight’s lab — version 25.0  
 > quietly chaotic, relentlessly building
-
