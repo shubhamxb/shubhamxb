@@ -15,7 +15,7 @@ operations it sells with. DevOps by training (Persistent Systems, 2022–24), a 
 
 ### Work here
 
-| | |
+| repo | what it is |
 |---|---|
 | [**shubhamxb.github.io**](https://github.com/shubhamxb/shubhamxb.github.io) | my site. No framework; the case log is generated from markdown, and the hero is a live snapshot of my own system |
 | [**sshfm**](https://github.com/shubhamxb/sshfm) | a browser-based SSH/SFTP file manager: encrypted connection vault, disk-usage treemap, audit log |
