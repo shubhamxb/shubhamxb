@@ -1,51 +1,39 @@
-# Hey, I’m Shubham — aka Midnight🦇
+## Shubham Bhagwat
 
-I automate cloudscapes, script invisible workflows, and build things that just work
-Focused on building systems that feel quiet on the surface and powerful underneath
+**I build systems that run themselves.** Infrastructure, AI operations, marketing and real estate, wired into one
+working machine. DevOps by training, a builder by habit. Pune, India.
 
-```bash
-DevOps · Cloud · CI/CD · Infra as Code · Quiet Builder
 ```
----
+ the overlook ─────── one board ─────── hearth
+ where I work                           always on
+ run by vesper                          run by wick
+                                        cinema · archive · tower · loom · docks · lab   47/47 up
+```
+<sub>My own setup, two machines and two AI agents sharing one task board. Live counts on the <a href="https://shubhamxb.github.io">site</a>.</sub>
 
-## 🔧 current stack
+### What I build
 
-- **Cloud:** AWS · Azure · GCP · IBM Cloud  
-- **Infra:** Terraform · Ansible · Docker · Kubernetes · OpenShift  
-- **CI/CD:** Tekton · GitHub Actions · CircleCI  
-- **Langs:** Bash · Python · JavaScript · Go  
+- **Infrastructure:** servers, containers, pipelines, and the monitoring that tells you before something breaks.
+  DevOps at Persistent Systems, 2022–24. Runs a ~50-service homelab today.
+- **AI operations:** agents that do real work: triage, follow-ups, reports. Every decision a yes or no I approve.
+- **Marketing systems:** brand, creative and campaign machinery that stays consistent as it grows.
+- **Real estate operations:** lead pipelines, channel partners and property marketing, run like a system.
 
----
+### Work here
 
-## 🌱 currently exploring
+| | |
+|---|---|
+| [**shubhamxb.github.io**](https://github.com/shubhamxb/shubhamxb.github.io) | my site: static, no framework, a case log generated from markdown, and a live snapshot of my own system |
+| [**sshfm**](https://github.com/shubhamxb/sshfm) | a browser-based SSH/SFTP file manager: encrypted connection vault, disk-usage treemap, audit log (Vue 3, Express, ssh2) |
+| [**kodekloud-labs**](https://github.com/shubhamxb/kodekloud-labs) | real-world DevOps practice, each task documented with its solution |
+| [**kk-terraform-challenge**](https://github.com/shubhamxb/kk-terraform-challenge) | Terraform challenge solutions |
+| [**my-dotfiles**](https://github.com/shubhamxb/my-dotfiles) | the shell setup I work in |
 
-- tekton pipelines + terraform stacks  
-- hybrid cloud resilience  
-- secure, event-driven CI/CD  
-- internal tools that help devs move faster  
+### Ways in
 
----
+**Build** a system from a blank page to running. **Rescue** one that's slow, broken, or nobody understands any more.
+**Run** it with my agents, so it keeps working without you. Most work starts with a 30-minute call.
 
-## 📂 featured work
+[shubhamxb.github.io](https://shubhamxb.github.io) · [email](mailto:shubham.bhagwat37@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shubhamxb) · [case files](https://shubhamxb.github.io/log/)
 
-🧪 real-world practice, annotated → [kodekloud-labs](https://github.com/shubhamxb/kodekloud_engineer_tasks)  
-💡 hands-on DevOps labs with real-world scenarios — deeply annotated and continuously evolving
-
-🛠️ experiments in quiet automation → `tekton-starter-kit`, `terraform-essentials`, `devops-journal`  
-🔒 internal repos in private dev — dropping soon with clean patterns, CI/CD pipelines, and automation logic
-
-🌐 the mirror lab in design → [portfolio-site](https://github.com/shubhamxb/portfolio-site) *(in design)*  
-🔧 a minimal mirror of this GitHub lab — meant for long-form thoughts, experimental visuals, and future logs
-
----
-
-## 🔗 connect || 🧬 beyond the terminal
-
-📇 professional signals → [LinkedIn](https://www.linkedin.com/in/shubhamxb)  
-🕹️ controlled chaos archive → [Steam](https://steamcommunity.com/id/psych0thinker)
-
-
----
-
-> this is midnight’s lab — version 25.0  
-> quietly chaotic, relentlessly building
+<sub>Terraform · Ansible · Docker · Kubernetes · OpenShift · AWS · Azure · GCP · GitHub Actions · Tekton · Python · Bash · Go · JavaScript</sub>
