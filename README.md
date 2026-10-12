@@ -18,7 +18,7 @@ operations it sells with. DevOps by training (Persistent Systems, 2022–24), a 
 | repo | what it is |
 |---|---|
 | [**shubhamxb.github.io**](https://github.com/shubhamxb/shubhamxb.github.io) | my site. No framework; the case log is generated from markdown, and the hero is a live snapshot of my own system |
-| [**sshfm**](https://github.com/shubhamxb/sshfm) | a browser-based SSH/SFTP file manager: encrypted connection vault, disk-usage treemap, audit log |
+| [**sshfm**](https://github.com/shubhamxb/sshfm) | your servers' files in the browser: encrypted connection vault, disk-usage treemap, audit log. **[live demo](https://shubhamxb.github.io/sshfm/)** |
 | [**kk-terraform-challenge**](https://github.com/shubhamxb/kk-terraform-challenge) | Terraform challenge solutions |
 | [**my-dotfiles**](https://github.com/shubhamxb/my-dotfiles) | the shell setup I work in |
 
